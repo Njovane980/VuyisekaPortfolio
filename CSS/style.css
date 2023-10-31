@@ -1,0 +1,12 @@
+*,
+*::after,
+*::before{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.navbar {
+    flex-shrink: 0;
+    background-color: #DB9696;
+}
+
